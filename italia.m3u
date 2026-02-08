@@ -2,10 +2,22 @@
 #EXTINF:-1 tvg-id="101" channel-id="101" tvg-chno="101" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai1.png" group-title="Rai",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="102" channel-id="102" tvg-chno="102" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai2.png" group-title="Rai",Rai 2
+#EXTINF:-1 tvg-id="201" channel-id="201" tvg-chno="201" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai1.png" group-title="Rai",Rai 1 (ilglobotv)
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
+#EXTINF:-1 tvg-id="301" channel-id="301" tvg-chno="301" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai1.png" group-title="Rai",Rai 1 (netpus)
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+#EXTINF:-1 tvg-id="102" channel-id="102" tvg-chno="102" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai2.png" group-title="Rai",Rai 2 (ilglobotv)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
-#EXTINF:-1 tvg-id="103" channel-id="103" tvg-chno="103" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai3.png" group-title="Rai",Rai 3
+#EXTINF:-1 tvg-id="302" channel-id="302" tvg-chno="302" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai2.png" group-title="Rai",Rai 2 (netplus)
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
+#EXTINF:-1 tvg-id="203" channel-id="203" tvg-chno="203" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai3.png" group-title="Rai",Rai 3 (ilglobotv)
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
+#EXTINF:-1 tvg-id="303" channel-id="303" tvg-chno="303" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai3.png" group-title="Rai",Rai 3 (netplus)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
 #EXTINF:-1 tvg-id="104" channel-id="104" tvg-chno="104" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rete4.png" group-title="Mediaset",Rete 4
